@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m0h4n
-- 👽🤖👾 I’ve been working, for years, around the relation between Speculative Narratives (Fiction and Non-Fiction), Transmedia Narratives, New Media Arts and Creativity (Creative Coding) focused on Live and Performatics Arts (Live Cinema; Live Coding).
+- 👽🤖👾 I’ve been working, for years, around the relation between Speculative Narratives (Fiction and Non-Fiction), Transmedia Narratives, New Media Arts and Creativity (Creative Coding) focused on Live and Performatics Arts (Alg-Live Cinema (Live Cinema + Live Coding)), Interactive Digital Narratives (Web based) and Interactive and Generative Installations.
 - 💞️ I’m looking to collaborate on the areas above mentioned.
 - 📫 How to reach me: nel.sonologia@gmail.com 
 
